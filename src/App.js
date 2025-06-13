@@ -1,12 +1,13 @@
 import React from 'react';
-import LoginComponent from './LoginComponent';
+import EmailForm from './EmailForm';
 
 function App() {
   return (
     <div>
-      <LoginComponent />
+      <EmailForm />
     </div>
   );
 }
 
 export default App;
+
